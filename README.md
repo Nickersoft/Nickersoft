@@ -18,7 +18,7 @@ Here's a bit about me:
 
 :man_technologist: You can currently find me coding either the [@Coursera](https://github.com/Coursera) webpage, [@Linguistic](https://github.com/Linguistic), or [@entrylvl](https://github.com/Nickersoft/entrylvl). Previously I've worked at [@edX](https://github.com/edX), [@Udacity](https://github.com/Udacity), and [@KAYAK](https://github.com/KAYAK).
 
-:rocket: People typically know me from my work on [PushJS](https://pushjs.org), as well as [the 50+ public Spotify playlists I've created and maintain](https://open.spotify.com/user/tjnickerson) (yes, I'm serious).
+:rocket: People typically know me from my work on [PushJS](https://pushjs.org), as well as [the 50+ public Spotify playlists I maintain](https://open.spotify.com/user/tjnickerson) (yes, I'm serious).
 
 :memo: I've written for [@LogRocket](https://github.com/logrocket), as well as [.net Magazine](https://www.creativebloq.com/net-magazine) in the UK!
 
