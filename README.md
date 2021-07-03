@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:man_technologist: You can currently find me coding either the [@Coursera](https://github.com/Coursera) webpage, [@Linguistic](https://github.com/Linguistic), or [@entrylvl](https://github.com/Nickersoft/entrylvl). Previously I've worked at [@edX](https://github.com/edX), [@Udacity](https://github.com/Udacity), and [@KAYAK](https://github.com/KAYAK).
+:man_technologist: You can currently find me coding either [@Coursera](https://github.com/Coursera) learner experience, [@Linguistic](https://github.com/Linguistic), or the [@hop](https://github.com/Nickersoft/hop) CLI tool. Previously I've worked at [@edX](https://github.com/edX), [@Udacity](https://github.com/Udacity), and [@KAYAK](https://github.com/KAYAK)!
 
-:rocket: People typically know me from my work on [PushJS](https://pushjs.org), as well as [the 50+ public Spotify playlists I maintain](https://open.spotify.com/user/tjnickerson) (yes, I'm serious).
+:rocket: People typically know me from my work on [PushJS](https://pushjs.org) as well as [the 50+ public Spotify playlists I maintain](https://open.spotify.com/user/tjnickerson) (yes, I'm serious).
 
-:memo: I've written for [LogRocket's company blog](https://blog.logrocket.com/author/tylernickerson/), [Linguistic's company blog](https://blog.golinguistic.com/author/tjnickerson/), as well as [.net Magazine](https://www.creativebloq.com/net-magazine) in the UK!
+:memo: I've written for [LogRocket's company blog](https://blog.logrocket.com/author/tylernickerson/), [Linguistic's company blog](https://www.golinguistic.com/blog), as well as [.net Magazine](https://www.creativebloq.com/net-magazine) in the UK!
 
-:cn: I've been an avid learner of Mandarin Chinese for most of my life and believe language learning has the ability to change the world :grin:
+:cn: I've been an avid learner of Mandarin Chinese for most of my life and believe language has the ability to change the world!
+
+:coffee: My diet is literally 60% coffee 😎
+
