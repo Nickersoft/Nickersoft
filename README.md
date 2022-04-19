@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:man_technologist: You can currently find me coding either [@Coursera](https://github.com/Coursera) learner experience, [@Linguistic](https://github.com/Linguistic), or the [@hop](https://github.com/Nickersoft/hop) CLI tool. Previously I've worked at [@edX](https://github.com/edX), [@Udacity](https://github.com/Udacity), and [@KAYAK](https://github.com/KAYAK)!
+:man_technologist: You can currently find me building [@BaseTen](https://github.com/BaseTenLabs), [@Linguistic](https://github.com/Linguistic), and the [@hop](https://github.com/Nickersoft/hop) CLI tool. Previously I've worked at [@Coursera](https://github.com/Coursera), [@edX](https://github.com/edX), [@Udacity](https://github.com/Udacity), and [@KAYAK](https://github.com/KAYAK)!
 
 :rocket: People typically know me from my work on [PushJS](https://pushjs.org) as well as [the 50+ public Spotify playlists I maintain](https://open.spotify.com/user/tjnickerson) (yes, I'm serious).
 
