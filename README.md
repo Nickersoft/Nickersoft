@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:man_technologist: You can currently find me building [Linguistic](https://github.com/Linguistic) as well as the [The Open Dictionary Project](https://github.com/TheOpenDictionary/odict). Previously I've worked at [BaseTen](https://github.com/BaseTenLabs), [Coursera](https://github.com/Coursera), [edX](https://github.com/edX), [Udacity](https://github.com/Udacity), and [KAYAK](https://github.com/KAYAK)!
+:man_technologist: I'm the founder of [The Open Dictionary Project](https://github.com/TheOpenDictionary/odict) and [Kojo Design](https://kojo.design), as well as the co-founder of [Linguistic](https://github.com/Linguistic). Previously I've worked at [BaseTen](https://github.com/BaseTenLabs), [Coursera](https://github.com/Coursera), [edX](https://github.com/edX), [Udacity](https://github.com/Udacity), and [KAYAK](https://github.com/KAYAK)!
 
 :rocket: People typically know me from my work on [PushJS](https://pushjs.org) as well as [the 50+ public Spotify playlists I maintain](https://open.spotify.com/user/tjnickerson) (yes, I'm serious).
 
